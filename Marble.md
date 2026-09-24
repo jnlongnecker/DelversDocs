@@ -1,0 +1,14 @@
+- Game loop
+    - Player picks a room to challenge
+    - That room sets up a game board
+        - In the game board, there are a number of marbles
+        - These marbles get rolled onto the board
+            - The marbles consist of the following:
+                - Enemy marbles
+                - Ability marbles
+                - Shooter
+            - The goal is to hit the ability marbles in order to activate them
+                - Hitting an attack marble into the enemy hurts it
+                - Hitting a buff marble benefits whoever hits it
+            - If your shooter hits the enemy marble, you take damage
+        - Once all enemies are beaten or the player is beaten, the map ends

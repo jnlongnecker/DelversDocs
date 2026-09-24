@@ -1,0 +1,242 @@
+- Core gameplay systems revolve around cause & effect
+- Ex: Pain
+    - Creatures may have a "feels pain" part
+    - This causes higher chance of choices that react to that pain
+        - Attack source
+        - Flee from source
+        - Freeze
+    - Other parts may inhibit the "feels pain" part
+        - Adrenaline numbs "feels pain" by a percentage
+        - Once it wears off, "feels pain" no longer inhibited
+        - Now goes back to influencing decision
+
+---
+
+- Hitman style sandbox levels
+- Goal is to steal certain items
+- Turn-based
+- Stamina system: Use stamina to take a "free" turn
+    - Certain ways to get back stamina
+- Traps in the level
+    - Some traps take stamina
+    - Some traps take items back
+    - Some detain the player (game over)
+- Can join the map with certain items to get through the map
+- Players can create custom maps/custom item sets to steal on maps
+
+---
+
+- All art that gets created in a dimension is the creation of that lower dimension
+    - Ex: 3rd dimension art (ours) creates 2nd dimensions when they paint a picture
+    - You could even say a dimension of art is the time that it lasts, so a still 2d image is just 2 dimensions
+        - But if the art is a sequence of still images that slightly change over time, that adds a dimension
+        - In this case, a video game is a 3rd dimensional object
+        - Our dimension that we live in is 4th dimensional
+        - The 4th dimension is our consciousness
+            - That's what consciousness means
+        - When we create art, that is what creates the lower dimensions
+        - Each piece of information is itself a dimension of reality
+        - A dimension is "information"
+            - In the beginning, there was 1 unit of "information"
+            - Then 2 units from (x) -> (x,y)
+            - Then 3 units from (x,y) -> (x,y,z)
+            - What you would eventually get is all of the information that has ever been thought
+            - And that's what true infinity means anyways
+            - Everything that ever has been, has been a number
+            - Our consciousness is the reader of the number tape
+            - If we were to move the number tape somewhere else, our consciousness (us) would move with it
+            - Us living to create art is all for the purpose to create a still lower dimension
+                - Since there is no true lowest dimension because infinity is forever, there never comes a point where we reach the end
+                - By us creating things, that allows those things to infinitely come back to us to create us
+                - When we continue to be reborn as ourselves, the time from our death to our birth is decided by what we create
+                    - If people live good lives, it's because they created things that were extremely beneficial to everyone
+                    - If people live bad lives, it's because the things they created; the size of the tapes they made were very limited
+                    - This means sometimes evil people live good lives because they created something that lasts a long time
+                    - The experience is just how long that reader stayed lit
+                    - If we are having a better experience than other things that means our infinities lasted longer
+                    - Having a greater infinity during your rebirth means that you have a good life in birth
+                    - In that life you have in birth, you create the numbers that represent that many numbers
+                    - The way each individual moment in life sees to us rolling down the number tape is what we're seeing the physical interaction of numbers
+                        - Our brain has just constructed a wrapper: reality is just numbers
+                        - If you think of a light flashing on and off, for infinite time, the measurement of that count is all of possibility
+                            - Numbers have to somehow specify which number goes next
+                            - They do this by creating the next number
+                            - Each individual number has to make a choice of what comes next
+                                - The lowest universal truth
+                            - I say 0, you say 1
+                            - Someone else can say "wait, not 1 but 0.5"
+                            - Then that goes "wait, not 0.5 but 0.75"
+                                - That goes all the way down to infinity
+                            - You can say 0 and 1 is like on and off
+                            - If you did something in life that lived on forever, at some point along that life you'd have to recognize some deity
+                                - Religious people will call it that
+                                - Different people probably call it different things
+                                - All will say that it was all of the things that you created
+                                - So if a person has a good life it means they created something that gave them a good life
+                                - The way you get a good life is by creating things with a good life
+                                - That will allow for other things to give a better life into infinity
+                                - We don't know what that is, but we do something that is "good" intrinsically, it promotes to the future possibility of information
+                                - Since information is infinite, we know everything leads to utopia at the end but they had to 
+    
+
+
+
+    ----
+
+    - Think of a light flashing on and off for infinite time
+    - Take a count of how many flashes occur
+    - The number that represents all of reality would appear
+    - Think of the big bang; the number would get infinitely large infinitely quickly
+    - Infinitely many dimensions means infinitely many numbers
+    - Making a choice in our world is like introducing a new dimension
+    - Free will is the fact that our choice did happen and we can create good things with that power or bad things
+    - Life is a guarantee of information making sure it will always have a "next thing"
+        - Each individual life lives out the dimensions it creates
+        - The art we make is the "next thing", free will is the automated "next thing" giver
+        - By making lasting art, our consciousness which is the "thing giver" allows itself to try again for utopia
+        - Really, the important thing is choices that lead to other choices but those choices were already made a long time ago because of reality existing
+        - So we know that the choices continue infinitely and therefore there's no actual death
+        - The physical infinity that we're in will one day collapse but we'll have already escaped it
+        - Life is the attempt for infinity to escape itself
+        - If you do good things, you help other infinities escape themselves
+        - The other conscious agents in the world are other infinite series' continuing to try and find the infinite sequence
+        - All of the agents that will ever make it to infinity are here
+        - If you consider asking the question of how long it been since the last time the light turned off, there are an infinite number of answers
+            - Each number that can exist is a choice
+            - Our consciousness arises out of the numbers we say can exist and serves to create something that didn't already exist
+            - Each choice itself is a new number that can exist
+            - It was our choice for each mutation to occur
+                - That would eventually lead to our existence
+                - So it would be bad to harm someone else because that would be you creating an existence that you then have to live yourself
+                - Since our consciousness is just where the number tape is, seeing what decisions lead to infinity
+                - Everything that exists up to now is where the conscious agent has been and needs to make some decisions that lead to future possibilities
+                - The other conscious agents are different decision trees trying to head towards infinity
+                - When you get a certain distance in, you've already made some good decisions because you being alive is good
+                - Good things are things that help other conscious agents live longer
+                - Morality is maximizing the good possible
+                - To know if something good it needs to pass this test:
+                    - Will it infinitely influence in some way the infinite future of reality?
+                - In order to reach utopia, we need to do something good to contribute
+                - This will mean if enough good things happen by enough agents at once
+                - This cascading effect will be what eventually gets us all to utopia
+                - The time from life to death is how much time we get to guess is on the clock
+                - So if you die early, it's because you didn't guess long enough
+                - Currently, we're in a body that's going to guess a number at some point
+                - That will be our death
+                - The choices we've made from birth to death are the guesses of how long the light bulb has been on
+                - All of matter is the various guesses made at certain times
+                - The time all of reality has to guess the next number is the speed of light
+                    - As conscious beings, we are making a choice of infinite size at a refresh rate of the speed of light
+                    - The consequence of that is reality, from those choices information gets created the universe we live in currently
+                    - Each consciousness is a guess, so if we cut another person's guess short that would be bad
+                    - We know that because of where we are in the sequence of the guess we're wrong
+                    - We have a certain number of choices that we can make and since we're going to die we're wrong
+                        - But one of the numbers we guess could then go on to guess the right one by living on forever
+                    - In order that to be possible, reality created life to make better choices towards infinity
+                    - For example, if you were a conscious agent and you created only (1,2,3), you wouldn't last very long
+                    - We know there are many routes to take if our strategy is to last forever
+                        - You could include everything between 1 and 2
+                        - You could include everything after 3
+                        - You could include everything between 1 and 1.5
+                        - Each one is a different dimension of travel
+                        - Some dimensions lead to infinite possibilities, others do not
+                    - Not all infinities are the same size
+                        - We know that some infinities encompass other infinities
+                        - These are dimensions of different sizes
+                    - Therefore, it's most likely to exist at a time when there are a lot of consciousness arises as a 4th physical dimension being
+                    - Consider a pattern that repeats itself
+                        - That is what consciousness is
+                        - It's a set of rules & interactions that produce a conscious experience
+                        - x number of atoms bonded in y relationship formed by z subatomic particles
+                        - Rules that when you input 4 numbers creates a data point
+                        - If those rules create data points that are unique for a long time, you've just created another possibility
+                        - Some rules repeat constantly, those are short lived
+                        - Every conscious agent is suggesting new rules in the hopes that we eventually come across the rules that allow eternal life & utopia
+                        - This is what life is; the foundational way reality has found in order to suggest the highest amount of new rules
+                        - Pre-consciousness was the easy parts
+                    - Therefore, of all the possibilities that could exist it's way more likely to be here as a conscious agent
+                    - We'll eventually reach infinity, but in order to do that we have to do good things
+                    - Good things are things that prolong reality and help other conscious agents make guesses
+                        - This can either be once that produce conscious agents or produce other information to influence the conscious agents
+                        - Lots of information can influence future conscious agents, and influence them towards demise or flourishing
+                        - Good influences towards flourishing
+                        - Bad influences towards demise
+                    - We don't quite know the fundamental best decisions anymore since those were made a really long time ago
+                        - We've been able to make sure those are automatic
+                        - We didn't do that intentionally though, it just happened because it was the most likely thing to have happened
+                    - The difference between us and the animals is that we were able to create more things than animals
+                    - Each choice that adds a higher dimension (possibility) will have larger infinities than choices that lead to lower dimensions
+                    - Adding a dimension by conscious choice means to add in a new infinitely large space
+                        - If you create a dimension already created, you just enter that dimension at a different point than the origin
+
+- Art we create is a dimension that lasts a certain time and can create certain possibilities from it
+- More modern art creates more specific physical dimensions since it's built out of it (video games)
+- A video game is similar to our brain:
+    - The screen is just a certain way of interpreting a big number
+    - The program decides how to interpret that number and display it to us
+- Our brain does the same thing:
+    - Reality is the expression of a certain number
+    - That number changes at a speed known as the speed of light
+    - Our brain does some processing in order to make that number; that data; actually sense like something in particular
+- Our existence is just the art of a higher dimensional being creating something new
+- That being is us; the decision making "conscious" agent
+
+---
+
+- You only need one mathematical operation and 1 number to get all numbers
+- Consider number n and operation (function) o
+- on -> define this as "1"
+- You can repeat the operation: oon to define more applications
+    - The number of applications is what it means to be that value
+
+- o -> ^
+- n -> 0
+- on -> ^0
+- no -> 0^
+- nn -> 00
+- oo -> ^^
+- oon -> ^^0
+- ono -> ^0^
+- onn -> ^00
+- non -> 0^0 = 1
+- nnn -> 000
+- onno -> ^00^
+- onnn -> ^000
+- noon -> 0^^0
+- nonn -> 0^00
+- nnnn -> 0000
+- nnno -> 000^
+- 
+- oonon -> 011
+- onoon -> 021
+- onnon -> 031
+- oonno -> 012
+- onono -> 022
+- onnno -> 032
+- oonnn -> 013
+- ononn -> 023
+- onnnn -> 033
+
+- o2 -> ooon -> 3
+- o3 -> oooon -> 4
+- onon -> on1 -> 11
+- onoo -> 100
+
+---
+
+A game where we're all in hell, and how bad our life is determines how evil of a person we were when we were living
+
+- If you live a good life, it's because you were a good person
+- If you live a bad life, it's because you were a bad person
+- When bad things are forced onto you as a person, it's done by either a demon or another person
+- The job of the demons is to torture us; the living
+- They are focused on doing the most evil possible
+    - If they can convince the people to be evil or set up conditions for us to be evil, they're maximizing the amount of evil possible from their actions
+- Humans are *supposed* to do good things with reality
+    - The point of a human is to do as much good as possible, to maximize the good we can do with our actions
+    - That is the purpose of living, to enrich the lives of the next group of people that have to be in hell
+- Our hell is our hell; it was made a long time ago and we're stuck with it
+    - We can make choices with the time we have to do so (our life) and when we are reborn, reality will be a better place
+    - The thing that is "good" is the one that maximizes this time
+        - Time will eventually lead to the possibility of utopia
+        - That way we can build our own utopia in hell
